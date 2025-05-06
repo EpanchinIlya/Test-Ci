@@ -11,6 +11,6 @@ export class AppController {
 
   @Get('/hello')
   hello() {
-    return 'Hello developer7 Ilya';
+    return 'Hello developer10 Ilya';
   }
 }
